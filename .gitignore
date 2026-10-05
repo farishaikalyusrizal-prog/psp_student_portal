@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# Uploaded profile pictures
+public/uploads/profiles/*
+!public/uploads/profiles/.gitkeep
